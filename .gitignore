@@ -65,3 +65,4 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+/app/generated/prisma
